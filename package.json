@@ -1,0 +1,17 @@
+{
+  "name": "salenko-61",
+  "version": "1.0.0",
+  "description": "ДЗ 61.1 — Розширення Express-сервера мідлварами (логування, автентифікація, валідація, сесії, обробка помилок)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["express", "rest", "api", "mvc", "middleware"],
+  "author": "Vladislav Salenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
